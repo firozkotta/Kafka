@@ -1,5 +1,6 @@
 wget http://apache.spinellicreations.com/kafka/1.0.1/kafka_2.11-1.0.1.tgz
 Java 8 JDK   
     http://www.oracle.com/technetwork/java/javase/downloads/index.html
+    https://docs.oracle.com/javase/10/install/toc.html
 Scala 2.11.x    
     http://www.scala-lang.org/download/
